@@ -1,2 +1,2 @@
 # rest-api-node-mongo
-Github editor edition.
+Basic CRUD APP with node + express + mongoDB
