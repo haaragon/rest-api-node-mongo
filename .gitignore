@@ -131,3 +131,7 @@ dist
 
 # ignore conflict files
 *.orig
+
+# ignore route.rest file
+route.rest
+
